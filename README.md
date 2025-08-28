@@ -1,6 +1,6 @@
-## Hi there, I'm André and I'm a Software Developer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there, I'm André and I'm a Software Developer <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-+5 years of experience as a Software Developer. Proven background in Frontend, Backend and Mobile development using widely adopted frameworks and tools. Experienced in coordinating complex projects, collaborating across multidisciplinary and international teams. Skilled in problem-solving, delivering scalable and innovative solutions, and optimizing user experience.
+## +5 years of experience as a Software Developer. Proven background in Frontend, Backend and Mobile development using widely adopted frameworks and tools. Experienced in coordinating complex projects, collaborating across multidisciplinary and international teams. Skilled in problem-solving, delivering scalable and innovative solutions, and optimizing user experience.
 
 ## ⚡ Knowledge
 
@@ -50,7 +50,7 @@
 ![Agile Mindset](https://img.shields.io/badge/Agile_Mindset-00BCD4?style=for-the-badge&logoColor=white)
 
 
-## ⚙️ Github Analytics
+## ⚙️  Github Analytics
 
 
 <p align="center">
