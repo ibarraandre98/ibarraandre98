@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm André and I'm a Software Developer 👋
 
 <p align="center">
 <a href="https://github.com/ibarraandre98">
