@@ -36,7 +36,7 @@
 ### Tools/Other :
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Services-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Crashlytics](https://img.shields.io/badge/Crashlytics-FF6F00?style=for-the-badge&logo=crashlytics&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-FF3B30?style=for-the-badge&logo=amplitude&logoColor=white)
 ![Leanplum](https://img.shields.io/badge/Leanplum-3A3A3A?style=for-the-badge&logo=leanplum&logoColor=white)
