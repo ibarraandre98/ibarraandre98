@@ -50,6 +50,8 @@
 ![Agile Mindset](https://img.shields.io/badge/Agile_Mindset-00BCD4?style=for-the-badge&logoColor=white)
 
 
+## ⚙️ Github Analytics
+
 
 <p align="center">
 <a href="https://github.com/ibarraandre98">
